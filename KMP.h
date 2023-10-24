@@ -39,7 +39,4 @@ int KMP(const string& s,const string& subs)
     else return -1;
 }
 
-int main()
-{
 
-}
